@@ -4,9 +4,9 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 ## Goals
-### Membiasakan ngoding sehari setidaknya satu jam.
-### Mulai bisa buat project front-end web (bahkan back-end).
-### Lancar ngerjain soal Competitive Programming level beginner.
+1. Membiasakan ngoding sehari setidaknya satu jam.
+2. Mulai bisa buat project front-end web (bahkan back-end).
+3. Lancar ngerjain soal Competitive Programming level beginner.
 
 #### Start Date
 June 29th, 2020. [PUT YOUR DATE HERE]
