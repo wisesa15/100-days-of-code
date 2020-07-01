@@ -16,3 +16,12 @@
 
 **Materi terakhir di freecodecamp:** Applied Visual Design: Use the text-transform Property to Make Text Uppercase
 
+### Day 3: July 1, 2020 
+
+**Today's Progress**: lanjut belajar css di freecodecamp.org. hari ini belajar soal position dan penggunaan trik trik buat bikin warna yang beda-beda kayak linear-gradient dan repeat-linear-gradient. buat bikin warna background yang gak cuma warna flat (gradient atau texture) pakenya properti background karena yang support fungsi linear-gradient sama url itu properti background. juga ngelakuin manipulasi objek pake fungsi fungsi kayak scale, skewX, skewY, dan kombinasi dari fungsi-fungsi yang ada. 
+
+**Thoughts:** masih ngalamin rasa-rasa males yang keluar lagi, tapi berhasil ngatasinnya dan tetep ngelakuin buat hari ini meskipun gak maksimal dan malem banget. rasanya pengen main pubg doang tp kenapa ini malah kayak tempat curhat bukan isi pikiran tentang materi yang ada. soal materi jadi lebih paham tentang properti position yang bakalan sering digunain banget buat bikin layout, tau yang mana yang bikin keluar normal flow yg mana yang enggak dan gimana cara gunainnya. waktunya sedikit gak memenuhi sebenarnya tapi its okay, yang penting KONSISTEN. semoga besok bisa lebih baik.
+
+**Materi terakhir di freecodecamp:** Applied Visual Design: Create a Graphic Using CSSPassed
+
+
