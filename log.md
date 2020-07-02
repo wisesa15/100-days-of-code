@@ -22,6 +22,13 @@
 
 **Thoughts:** masih ngalamin rasa-rasa males yang keluar lagi, tapi berhasil ngatasinnya dan tetep ngelakuin buat hari ini meskipun gak maksimal dan malem banget. rasanya pengen main pubg doang tp kenapa ini malah kayak tempat curhat bukan isi pikiran tentang materi yang ada. soal materi jadi lebih paham tentang properti position yang bakalan sering digunain banget buat bikin layout, tau yang mana yang bikin keluar normal flow yg mana yang enggak dan gimana cara gunainnya. waktunya sedikit gak memenuhi sebenarnya tapi its okay, yang penting KONSISTEN. semoga besok bisa lebih baik.
 
-**Materi terakhir di freecodecamp:** Applied Visual Design: Create a Graphic Using CSSPassed
+**Materi terakhir di freecodecamp:** Applied Visual Design: Create a Graphic Using CSS
 
 
+### Day 4: July 2, 2020 
+
+**Today's Progress**: belajar bikin gambar pake css dan bikin animasi pake css. Beberapa properti css buat animasi ada animation-name, animation-duration, animation-iteration-count, dll.
+
+**Thoughts:** 
+
+**Materi terakhir di freecodecamp:** Applied Visual Design: Animate Multiple Elements at Variable Rates
